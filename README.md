@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**luispimenta/luispimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Get in touch
 
-Here are some ideas to get you started:
+- Web: [red4sis.com][1]
+- LinkedIn: [linkedin.com/in/luisfpimenta][2]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤜🏻🤛🏻 Support Me
+
+You can support me and [buy me a coffee][3], if you want. 🙏🏻
+
+[1]: https://red4sis.com/
+[2]: https://linkedin.com/in/luisfpimenta
+[3]: https://www.buymeacoffee.com/luispimenta
